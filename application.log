@@ -1,0 +1,15 @@
+2018-08-08 14:25:12,807  INFO [main] IFACompanyTest:24 - ****************************** Starting test cases execution  *****************************************
+2018-08-08 14:25:15,581  INFO [main] Loginifa1_4cplatform:24 - ****************************** Starting test cases execution  *****************************************
+2018-08-08 14:25:19,589  INFO [main] Loginifa1_4cplatform:34 - entering application URL
+2018-08-08 14:25:32,788  INFO [main] ApplyasanIFA:29 - ****************************** Starting test cases execution  *****************************************
+2018-08-08 14:26:57,266  INFO [main] ApplyasanIFA:388 - ****************************** Browser is closed *****************************************
+2018-08-08 14:27:07,581  INFO [main] Contactform:24 - ****************************** Starting test cases execution  *****************************************
+2018-08-08 14:27:29,117  INFO [main] Contactform:129 - ****************************** Browser is closed *****************************************
+2018-08-08 14:27:29,119  INFO [main] Adminlogintest:21 - ****************************** Starting test cases execution  *****************************************
+2018-08-08 14:27:33,519  INFO [main] Adminlogintest:34 - entering application URL
+2018-08-08 14:27:34,118  INFO [main] Adminlogintest:69 - ****************************** Browser is closed *****************************************
+2018-08-08 14:27:38,100  INFO [main] Loginifa1_4cplatform:32 - entering application URL
+2018-08-08 14:27:38,516  INFO [main] Loginifa1_4cplatform:35 - ****************************** Starting test cases execution  *****************************************
+2018-08-08 14:27:39,115  INFO [main] Loginifa1_4cplatform:72 - ****************************** Browser is closed *****************************************
+2018-08-08 14:27:43,222  INFO [main] Loginifa1_4cplatform:28 - ****************************** Starting test cases execution  *****************************************
+2018-08-08 14:27:51,302  INFO [main] Loginifa1_4cplatform:54 - entering application URL

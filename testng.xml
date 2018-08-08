@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite"  parallel="classes">
+  <test thread-count="5" name="IfaTests">
+    <classes>
+      <class name="IFA4ctestScripts.IFACompanyTest"/>
+      <class name="IFA4ctestScripts.Loginifa1_4cplatform"/>
+      <class name="IFA4ctestScripts.Adminlogintest"/>
+      <class name="IFA4ctestScripts.Contactform"/>
+      <class name="IFA4ctestScripts.ApplyasanIFA"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
